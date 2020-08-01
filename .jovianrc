@@ -1,0 +1,19 @@
+{
+  "notebooks": {
+    "1Multiple Linear Regression - Predicting the Potential.ipynb": {
+      "slug": "15184cca151a415e92915576324728cb"
+    },
+    "2Polynomial Regression - Predicting the Potential.ipynb": {
+      "slug": "108e791e45954eee93d67b024d9c5b90"
+    },
+    "3Decision Tree Regression - Predicting the Potential.ipynb": {
+      "slug": "6e0c0c5f13264a79bc2516e98d4d2ede"
+    },
+    "4Random Forest - Predicting the Potential.ipynb": {
+      "slug": "f05e212b0cea4f56a04a9bdd9eda7d66"
+    },
+    "5SVR - Predicting the Potential.ipynb": {
+      "slug": "7038971e281f41fabba1e64b6ba33e9d"
+    }
+  }
+}
